@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'pengkiw', // 设置网站标题
+    title: 'hello pengkiwi', // 设置网站标题
     description: 'kiwi 文档',
     keywords: '前端文档',
     head: [
